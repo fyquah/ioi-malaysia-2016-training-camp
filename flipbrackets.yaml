@@ -1,0 +1,10 @@
+name: "flipbrackets"
+title: "Flip Brackets"
+time_limit: 1
+memory_limit: 128
+n_input: 75
+public_testcases: ""
+infile: ""
+outfile: ""
+token_mode: infinite
+

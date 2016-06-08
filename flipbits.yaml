@@ -1,0 +1,10 @@
+name: "flipbits"
+title: "Flip Bits"
+time_limit: 0.5
+memory_limit: 128
+n_input: 10
+public_testcases: ""
+infile: ""
+outfile: "flipbits.txt"
+score_precision: 2
+token_mode: infinite
